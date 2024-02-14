@@ -1,0 +1,3610 @@
+[
+    {
+        "name": "af-ZA-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Afrikaans (South Africa)",
+        "languageCode": "af-ZA"
+    },
+    {
+        "name": "am-ET-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Amharic (Ethiopia)",
+        "languageCode": "am-ET"
+    },
+    {
+        "name": "am-ET-Standard-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Amharic (Ethiopia)",
+        "languageCode": "am-ET"
+    },
+    {
+        "name": "am-ET-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Amharic (Ethiopia)",
+        "languageCode": "am-ET"
+    },
+    {
+        "name": "am-ET-Wavenet-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Amharic (Ethiopia)",
+        "languageCode": "am-ET"
+    },
+    {
+        "name": "ar-XA-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Modern Standard Arabic",
+        "languageCode": "ar-XA"
+    },
+    {
+        "name": "ar-XA-Standard-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Modern Standard Arabic",
+        "languageCode": "ar-XA"
+    },
+    {
+        "name": "ar-XA-Standard-C",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Modern Standard Arabic",
+        "languageCode": "ar-XA"
+    },
+    {
+        "name": "ar-XA-Standard-D",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Modern Standard Arabic",
+        "languageCode": "ar-XA"
+    },
+    {
+        "name": "ar-XA-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Modern Standard Arabic",
+        "languageCode": "ar-XA"
+    },
+    {
+        "name": "ar-XA-Wavenet-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Modern Standard Arabic",
+        "languageCode": "ar-XA"
+    },
+    {
+        "name": "ar-XA-Wavenet-C",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Modern Standard Arabic",
+        "languageCode": "ar-XA"
+    },
+    {
+        "name": "ar-XA-Wavenet-D",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Modern Standard Arabic",
+        "languageCode": "ar-XA"
+    },
+    {
+        "name": "bg-BG-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Bulgarian (Bulgaria)",
+        "languageCode": "bg-BG"
+    },
+    {
+        "name": "bn-IN-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Bangla (India)",
+        "languageCode": "bn-IN"
+    },
+    {
+        "name": "bn-IN-Standard-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Bangla (India)",
+        "languageCode": "bn-IN"
+    },
+    {
+        "name": "bn-IN-Standard-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Bangla (India)",
+        "languageCode": "bn-IN"
+    },
+    {
+        "name": "bn-IN-Standard-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Bangla (India)",
+        "languageCode": "bn-IN"
+    },
+    {
+        "name": "bn-IN-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Bangla (India)",
+        "languageCode": "bn-IN"
+    },
+    {
+        "name": "bn-IN-Wavenet-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Bangla (India)",
+        "languageCode": "bn-IN"
+    },
+    {
+        "name": "bn-IN-Wavenet-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Bangla (India)",
+        "languageCode": "bn-IN"
+    },
+    {
+        "name": "bn-IN-Wavenet-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Bangla (India)",
+        "languageCode": "bn-IN"
+    },
+    {
+        "name": "ca-ES-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Catalan (Spain)",
+        "languageCode": "ca-ES"
+    },
+    {
+        "name": "cmn-CN-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Chinese (Simplified, China)",
+        "languageCode": "cmn-CN"
+    },
+    {
+        "name": "cmn-CN-Standard-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Chinese (Simplified, China)",
+        "languageCode": "cmn-CN"
+    },
+    {
+        "name": "cmn-CN-Standard-C",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Chinese (Simplified, China)",
+        "languageCode": "cmn-CN"
+    },
+    {
+        "name": "cmn-CN-Standard-D",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Chinese (Simplified, China)",
+        "languageCode": "cmn-CN"
+    },
+    {
+        "name": "cmn-CN-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Chinese (Simplified, China)",
+        "languageCode": "cmn-CN"
+    },
+    {
+        "name": "cmn-CN-Wavenet-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Chinese (Simplified, China)",
+        "languageCode": "cmn-CN"
+    },
+    {
+        "name": "cmn-CN-Wavenet-C",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Chinese (Simplified, China)",
+        "languageCode": "cmn-CN"
+    },
+    {
+        "name": "cmn-CN-Wavenet-D",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Chinese (Simplified, China)",
+        "languageCode": "cmn-CN"
+    },
+    {
+        "name": "cmn-TW-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Chinese (Traditional, Taiwan)",
+        "languageCode": "cmn-TW"
+    },
+    {
+        "name": "cmn-TW-Standard-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Chinese (Traditional, Taiwan)",
+        "languageCode": "cmn-TW"
+    },
+    {
+        "name": "cmn-TW-Standard-C",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Chinese (Traditional, Taiwan)",
+        "languageCode": "cmn-TW"
+    },
+    {
+        "name": "cmn-TW-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Chinese (Traditional, Taiwan)",
+        "languageCode": "cmn-TW"
+    },
+    {
+        "name": "cmn-TW-Wavenet-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Chinese (Traditional, Taiwan)",
+        "languageCode": "cmn-TW"
+    },
+    {
+        "name": "cmn-TW-Wavenet-C",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Chinese (Traditional, Taiwan)",
+        "languageCode": "cmn-TW"
+    },
+    {
+        "name": "cs-CZ-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Czech (Czechia)",
+        "languageCode": "cs-CZ"
+    },
+    {
+        "name": "cs-CZ-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Czech (Czechia)",
+        "languageCode": "cs-CZ"
+    },
+    {
+        "name": "da-DK-Neural2-D",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "Danish (Denmark)",
+        "languageCode": "da-DK"
+    },
+    {
+        "name": "da-DK-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Danish (Denmark)",
+        "languageCode": "da-DK"
+    },
+    {
+        "name": "da-DK-Standard-C",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Danish (Denmark)",
+        "languageCode": "da-DK"
+    },
+    {
+        "name": "da-DK-Standard-D",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Danish (Denmark)",
+        "languageCode": "da-DK"
+    },
+    {
+        "name": "da-DK-Standard-E",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Danish (Denmark)",
+        "languageCode": "da-DK"
+    },
+    {
+        "name": "da-DK-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Danish (Denmark)",
+        "languageCode": "da-DK"
+    },
+    {
+        "name": "da-DK-Wavenet-C",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Danish (Denmark)",
+        "languageCode": "da-DK"
+    },
+    {
+        "name": "da-DK-Wavenet-D",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Danish (Denmark)",
+        "languageCode": "da-DK"
+    },
+    {
+        "name": "da-DK-Wavenet-E",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Danish (Denmark)",
+        "languageCode": "da-DK"
+    },
+    {
+        "name": "de-DE-Neural2-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "German (Germany)",
+        "languageCode": "de-DE"
+    },
+    {
+        "name": "de-DE-Neural2-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "German (Germany)",
+        "languageCode": "de-DE"
+    },
+    {
+        "name": "de-DE-Neural2-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "German (Germany)",
+        "languageCode": "de-DE"
+    },
+    {
+        "name": "de-DE-Neural2-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "German (Germany)",
+        "languageCode": "de-DE"
+    },
+    {
+        "name": "de-DE-Neural2-F",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "German (Germany)",
+        "languageCode": "de-DE"
+    },
+    {
+        "name": "de-DE-Polyglot-1",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "englishName": "German (Germany)",
+        "languageCode": "de-DE",
+        "type": "Polyglot"
+    },
+    {
+        "name": "de-DE-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "German (Germany)",
+        "languageCode": "de-DE"
+    },
+    {
+        "name": "de-DE-Standard-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "German (Germany)",
+        "languageCode": "de-DE"
+    },
+    {
+        "name": "de-DE-Standard-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "German (Germany)",
+        "languageCode": "de-DE"
+    },
+    {
+        "name": "de-DE-Standard-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "German (Germany)",
+        "languageCode": "de-DE"
+    },
+    {
+        "name": "de-DE-Standard-E",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "German (Germany)",
+        "languageCode": "de-DE"
+    },
+    {
+        "name": "de-DE-Standard-F",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "German (Germany)",
+        "languageCode": "de-DE"
+    },
+    {
+        "name": "de-DE-Studio-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "englishName": "German (Germany)",
+        "languageCode": "de-DE",
+        "type": "Studio"
+    },
+    {
+        "name": "de-DE-Studio-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "englishName": "German (Germany)",
+        "languageCode": "de-DE",
+        "type": "Studio"
+    },
+    {
+        "name": "de-DE-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "German (Germany)",
+        "languageCode": "de-DE"
+    },
+    {
+        "name": "de-DE-Wavenet-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "German (Germany)",
+        "languageCode": "de-DE"
+    },
+    {
+        "name": "de-DE-Wavenet-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "German (Germany)",
+        "languageCode": "de-DE"
+    },
+    {
+        "name": "de-DE-Wavenet-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "German (Germany)",
+        "languageCode": "de-DE"
+    },
+    {
+        "name": "de-DE-Wavenet-E",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "German (Germany)",
+        "languageCode": "de-DE"
+    },
+    {
+        "name": "de-DE-Wavenet-F",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "German (Germany)",
+        "languageCode": "de-DE"
+    },
+    {
+        "name": "el-GR-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Greek (Greece)",
+        "languageCode": "el-GR"
+    },
+    {
+        "name": "el-GR-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Greek (Greece)",
+        "languageCode": "el-GR"
+    },
+    {
+        "name": "en-AU-Neural2-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "English (Australia)",
+        "languageCode": "en-AU"
+    },
+    {
+        "name": "en-AU-Neural2-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "English (Australia)",
+        "languageCode": "en-AU"
+    },
+    {
+        "name": "en-AU-Neural2-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "English (Australia)",
+        "languageCode": "en-AU"
+    },
+    {
+        "name": "en-AU-Neural2-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "English (Australia)",
+        "languageCode": "en-AU"
+    },
+    {
+        "name": "en-AU-News-E",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "englishName": "English (Australia)",
+        "languageCode": "en-AU",
+        "type": "News"
+    },
+    {
+        "name": "en-AU-News-F",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "englishName": "English (Australia)",
+        "languageCode": "en-AU",
+        "type": "News"
+    },
+    {
+        "name": "en-AU-News-G",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "englishName": "English (Australia)",
+        "languageCode": "en-AU",
+        "type": "News"
+    },
+    {
+        "name": "en-AU-Polyglot-1",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "englishName": "English (Australia)",
+        "languageCode": "en-AU",
+        "type": "Polyglot"
+    },
+    {
+        "name": "en-AU-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "English (Australia)",
+        "languageCode": "en-AU"
+    },
+    {
+        "name": "en-AU-Standard-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "English (Australia)",
+        "languageCode": "en-AU"
+    },
+    {
+        "name": "en-AU-Standard-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "English (Australia)",
+        "languageCode": "en-AU"
+    },
+    {
+        "name": "en-AU-Standard-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "English (Australia)",
+        "languageCode": "en-AU"
+    },
+    {
+        "name": "en-AU-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "English (Australia)",
+        "languageCode": "en-AU"
+    },
+    {
+        "name": "en-AU-Wavenet-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "English (Australia)",
+        "languageCode": "en-AU"
+    },
+    {
+        "name": "en-AU-Wavenet-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "English (Australia)",
+        "languageCode": "en-AU"
+    },
+    {
+        "name": "en-AU-Wavenet-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "English (Australia)",
+        "languageCode": "en-AU"
+    },
+    {
+        "name": "en-GB-Neural2-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "English (United Kingdom)",
+        "languageCode": "en-GB"
+    },
+    {
+        "name": "en-GB-Neural2-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "English (United Kingdom)",
+        "languageCode": "en-GB"
+    },
+    {
+        "name": "en-GB-Neural2-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "English (United Kingdom)",
+        "languageCode": "en-GB"
+    },
+    {
+        "name": "en-GB-Neural2-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "English (United Kingdom)",
+        "languageCode": "en-GB"
+    },
+    {
+        "name": "en-GB-Neural2-F",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "English (United Kingdom)",
+        "languageCode": "en-GB"
+    },
+    {
+        "name": "en-GB-News-G",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "englishName": "English (United Kingdom)",
+        "languageCode": "en-GB",
+        "type": "News"
+    },
+    {
+        "name": "en-GB-News-H",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "englishName": "English (United Kingdom)",
+        "languageCode": "en-GB",
+        "type": "News"
+    },
+    {
+        "name": "en-GB-News-I",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "englishName": "English (United Kingdom)",
+        "languageCode": "en-GB",
+        "type": "News"
+    },
+    {
+        "name": "en-GB-News-J",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "englishName": "English (United Kingdom)",
+        "languageCode": "en-GB",
+        "type": "News"
+    },
+    {
+        "name": "en-GB-News-K",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "englishName": "English (United Kingdom)",
+        "languageCode": "en-GB",
+        "type": "News"
+    },
+    {
+        "name": "en-GB-News-L",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "englishName": "English (United Kingdom)",
+        "languageCode": "en-GB",
+        "type": "News"
+    },
+    {
+        "name": "en-GB-News-M",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "englishName": "English (United Kingdom)",
+        "languageCode": "en-GB",
+        "type": "News"
+    },
+    {
+        "name": "en-GB-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "English (United Kingdom)",
+        "languageCode": "en-GB"
+    },
+    {
+        "name": "en-GB-Standard-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "English (United Kingdom)",
+        "languageCode": "en-GB"
+    },
+    {
+        "name": "en-GB-Standard-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "English (United Kingdom)",
+        "languageCode": "en-GB"
+    },
+    {
+        "name": "en-GB-Standard-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "English (United Kingdom)",
+        "languageCode": "en-GB"
+    },
+    {
+        "name": "en-GB-Standard-F",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "English (United Kingdom)",
+        "languageCode": "en-GB"
+    },
+    {
+        "name": "en-GB-Studio-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "englishName": "English (United Kingdom)",
+        "languageCode": "en-GB",
+        "type": "Studio"
+    },
+    {
+        "name": "en-GB-Studio-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "englishName": "English (United Kingdom)",
+        "languageCode": "en-GB",
+        "type": "Studio"
+    },
+    {
+        "name": "en-GB-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "English (United Kingdom)",
+        "languageCode": "en-GB"
+    },
+    {
+        "name": "en-GB-Wavenet-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "English (United Kingdom)",
+        "languageCode": "en-GB"
+    },
+    {
+        "name": "en-GB-Wavenet-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "English (United Kingdom)",
+        "languageCode": "en-GB"
+    },
+    {
+        "name": "en-GB-Wavenet-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "English (United Kingdom)",
+        "languageCode": "en-GB"
+    },
+    {
+        "name": "en-GB-Wavenet-F",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "English (United Kingdom)",
+        "languageCode": "en-GB"
+    },
+    {
+        "name": "en-IN-Neural2-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "English (India)",
+        "languageCode": "en-IN"
+    },
+    {
+        "name": "en-IN-Neural2-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "English (India)",
+        "languageCode": "en-IN"
+    },
+    {
+        "name": "en-IN-Neural2-C",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "English (India)",
+        "languageCode": "en-IN"
+    },
+    {
+        "name": "en-IN-Neural2-D",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "English (India)",
+        "languageCode": "en-IN"
+    },
+    {
+        "name": "en-IN-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "English (India)",
+        "languageCode": "en-IN"
+    },
+    {
+        "name": "en-IN-Standard-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "English (India)",
+        "languageCode": "en-IN"
+    },
+    {
+        "name": "en-IN-Standard-C",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "English (India)",
+        "languageCode": "en-IN"
+    },
+    {
+        "name": "en-IN-Standard-D",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "English (India)",
+        "languageCode": "en-IN"
+    },
+    {
+        "name": "en-IN-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "English (India)",
+        "languageCode": "en-IN"
+    },
+    {
+        "name": "en-IN-Wavenet-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "English (India)",
+        "languageCode": "en-IN"
+    },
+    {
+        "name": "en-IN-Wavenet-C",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "English (India)",
+        "languageCode": "en-IN"
+    },
+    {
+        "name": "en-IN-Wavenet-D",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "English (India)",
+        "languageCode": "en-IN"
+    },
+    {
+        "name": "en-US-Journey-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "englishName": "English (United States)",
+        "languageCode": "en-US",
+        "type": "Journey"
+    },
+    {
+        "name": "en-US-Journey-F",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "englishName": "English (United States)",
+        "languageCode": "en-US",
+        "type": "Journey"
+    },
+    {
+        "name": "en-US-Neural2-A",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "English (United States)",
+        "languageCode": "en-US"
+    },
+    {
+        "name": "en-US-Neural2-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "English (United States)",
+        "languageCode": "en-US"
+    },
+    {
+        "name": "en-US-Neural2-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "English (United States)",
+        "languageCode": "en-US"
+    },
+    {
+        "name": "en-US-Neural2-E",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "English (United States)",
+        "languageCode": "en-US"
+    },
+    {
+        "name": "en-US-Neural2-F",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "English (United States)",
+        "languageCode": "en-US"
+    },
+    {
+        "name": "en-US-Neural2-G",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "English (United States)",
+        "languageCode": "en-US"
+    },
+    {
+        "name": "en-US-Neural2-H",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "English (United States)",
+        "languageCode": "en-US"
+    },
+    {
+        "name": "en-US-Neural2-I",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "English (United States)",
+        "languageCode": "en-US"
+    },
+    {
+        "name": "en-US-Neural2-J",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "English (United States)",
+        "languageCode": "en-US"
+    },
+    {
+        "name": "en-US-News-K",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "englishName": "English (United States)",
+        "languageCode": "en-US",
+        "type": "News"
+    },
+    {
+        "name": "en-US-News-L",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "englishName": "English (United States)",
+        "languageCode": "en-US",
+        "type": "News"
+    },
+    {
+        "name": "en-US-News-N",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "englishName": "English (United States)",
+        "languageCode": "en-US",
+        "type": "News"
+    },
+    {
+        "name": "en-US-Polyglot-1",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "englishName": "English (United States)",
+        "languageCode": "en-US",
+        "type": "Polyglot"
+    },
+    {
+        "name": "en-US-Standard-A",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "English (United States)",
+        "languageCode": "en-US"
+    },
+    {
+        "name": "en-US-Standard-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "English (United States)",
+        "languageCode": "en-US"
+    },
+    {
+        "name": "en-US-Standard-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "English (United States)",
+        "languageCode": "en-US"
+    },
+    {
+        "name": "en-US-Standard-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "English (United States)",
+        "languageCode": "en-US"
+    },
+    {
+        "name": "en-US-Standard-E",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "English (United States)",
+        "languageCode": "en-US"
+    },
+    {
+        "name": "en-US-Standard-F",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "English (United States)",
+        "languageCode": "en-US"
+    },
+    {
+        "name": "en-US-Standard-G",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "English (United States)",
+        "languageCode": "en-US"
+    },
+    {
+        "name": "en-US-Standard-H",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "English (United States)",
+        "languageCode": "en-US"
+    },
+    {
+        "name": "en-US-Standard-I",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "English (United States)",
+        "languageCode": "en-US"
+    },
+    {
+        "name": "en-US-Standard-J",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "English (United States)",
+        "languageCode": "en-US"
+    },
+    {
+        "name": "en-US-Studio-O",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "englishName": "English (United States)",
+        "languageCode": "en-US",
+        "type": "Studio"
+    },
+    {
+        "name": "en-US-Studio-Q",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "englishName": "English (United States)",
+        "languageCode": "en-US",
+        "type": "Studio"
+    },
+    {
+        "name": "en-US-Wavenet-A",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "English (United States)",
+        "languageCode": "en-US"
+    },
+    {
+        "name": "en-US-Wavenet-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "English (United States)",
+        "languageCode": "en-US"
+    },
+    {
+        "name": "en-US-Wavenet-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "English (United States)",
+        "languageCode": "en-US"
+    },
+    {
+        "name": "en-US-Wavenet-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "English (United States)",
+        "languageCode": "en-US"
+    },
+    {
+        "name": "en-US-Wavenet-E",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "English (United States)",
+        "languageCode": "en-US"
+    },
+    {
+        "name": "en-US-Wavenet-F",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "English (United States)",
+        "languageCode": "en-US"
+    },
+    {
+        "name": "en-US-Wavenet-G",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "English (United States)",
+        "languageCode": "en-US"
+    },
+    {
+        "name": "en-US-Wavenet-H",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "English (United States)",
+        "languageCode": "en-US"
+    },
+    {
+        "name": "en-US-Wavenet-I",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "English (United States)",
+        "languageCode": "en-US"
+    },
+    {
+        "name": "en-US-Wavenet-J",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "English (United States)",
+        "languageCode": "en-US"
+    },
+    {
+        "name": "es-ES-Neural2-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "Spanish (Spain)",
+        "languageCode": "es-ES"
+    },
+    {
+        "name": "es-ES-Neural2-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "Spanish (Spain)",
+        "languageCode": "es-ES"
+    },
+    {
+        "name": "es-ES-Neural2-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "Spanish (Spain)",
+        "languageCode": "es-ES"
+    },
+    {
+        "name": "es-ES-Neural2-D",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "Spanish (Spain)",
+        "languageCode": "es-ES"
+    },
+    {
+        "name": "es-ES-Neural2-E",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "Spanish (Spain)",
+        "languageCode": "es-ES"
+    },
+    {
+        "name": "es-ES-Neural2-F",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "Spanish (Spain)",
+        "languageCode": "es-ES"
+    },
+    {
+        "name": "es-ES-Polyglot-1",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "englishName": "Spanish (Spain)",
+        "languageCode": "es-ES",
+        "type": "Polyglot"
+    },
+    {
+        "name": "es-ES-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Spanish (Spain)",
+        "languageCode": "es-ES"
+    },
+    {
+        "name": "es-ES-Standard-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Spanish (Spain)",
+        "languageCode": "es-ES"
+    },
+    {
+        "name": "es-ES-Standard-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Spanish (Spain)",
+        "languageCode": "es-ES"
+    },
+    {
+        "name": "es-ES-Standard-D",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Spanish (Spain)",
+        "languageCode": "es-ES"
+    },
+    {
+        "name": "es-ES-Wavenet-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Spanish (Spain)",
+        "languageCode": "es-ES"
+    },
+    {
+        "name": "es-ES-Wavenet-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Spanish (Spain)",
+        "languageCode": "es-ES"
+    },
+    {
+        "name": "es-ES-Wavenet-D",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Spanish (Spain)",
+        "languageCode": "es-ES"
+    },
+    {
+        "name": "es-US-Neural2-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "Spanish (United States)",
+        "languageCode": "es-US"
+    },
+    {
+        "name": "es-US-Neural2-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "Spanish (United States)",
+        "languageCode": "es-US"
+    },
+    {
+        "name": "es-US-Neural2-C",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "Spanish (United States)",
+        "languageCode": "es-US"
+    },
+    {
+        "name": "es-US-News-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "englishName": "Spanish (United States)",
+        "languageCode": "es-US",
+        "type": "News"
+    },
+    {
+        "name": "es-US-News-E",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "englishName": "Spanish (United States)",
+        "languageCode": "es-US",
+        "type": "News"
+    },
+    {
+        "name": "es-US-News-F",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "englishName": "Spanish (United States)",
+        "languageCode": "es-US",
+        "type": "News"
+    },
+    {
+        "name": "es-US-News-G",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "englishName": "Spanish (United States)",
+        "languageCode": "es-US",
+        "type": "News"
+    },
+    {
+        "name": "es-US-Polyglot-1",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "englishName": "Spanish (United States)",
+        "languageCode": "es-US",
+        "type": "Polyglot"
+    },
+    {
+        "name": "es-US-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Spanish (United States)",
+        "languageCode": "es-US"
+    },
+    {
+        "name": "es-US-Standard-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Spanish (United States)",
+        "languageCode": "es-US"
+    },
+    {
+        "name": "es-US-Standard-C",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Spanish (United States)",
+        "languageCode": "es-US"
+    },
+    {
+        "name": "es-US-Studio-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "englishName": "Spanish (United States)",
+        "languageCode": "es-US",
+        "type": "Studio"
+    },
+    {
+        "name": "es-US-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Spanish (United States)",
+        "languageCode": "es-US"
+    },
+    {
+        "name": "es-US-Wavenet-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Spanish (United States)",
+        "languageCode": "es-US"
+    },
+    {
+        "name": "es-US-Wavenet-C",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Spanish (United States)",
+        "languageCode": "es-US"
+    },
+    {
+        "name": "eu-ES-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Basque (Spain)",
+        "languageCode": "eu-ES"
+    },
+    {
+        "name": "fi-FI-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Finnish (Finland)",
+        "languageCode": "fi-FI"
+    },
+    {
+        "name": "fi-FI-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Finnish (Finland)",
+        "languageCode": "fi-FI"
+    },
+    {
+        "name": "fil-PH-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Filipino (Philippines)",
+        "languageCode": "fil-PH"
+    },
+    {
+        "name": "fil-PH-Standard-B",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Filipino (Philippines)",
+        "languageCode": "fil-PH"
+    },
+    {
+        "name": "fil-PH-Standard-C",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Filipino (Philippines)",
+        "languageCode": "fil-PH"
+    },
+    {
+        "name": "fil-PH-Standard-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Filipino (Philippines)",
+        "languageCode": "fil-PH"
+    },
+    {
+        "name": "fil-PH-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Filipino (Philippines)",
+        "languageCode": "fil-PH"
+    },
+    {
+        "name": "fil-PH-Wavenet-B",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Filipino (Philippines)",
+        "languageCode": "fil-PH"
+    },
+    {
+        "name": "fil-PH-Wavenet-C",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Filipino (Philippines)",
+        "languageCode": "fil-PH"
+    },
+    {
+        "name": "fil-PH-Wavenet-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Filipino (Philippines)",
+        "languageCode": "fil-PH"
+    },
+    {
+        "name": "fil-ph-Neural2-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "Filipino (Philippines)",
+        "languageCode": "fil-PH"
+    },
+    {
+        "name": "fil-ph-Neural2-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "Filipino (Philippines)",
+        "languageCode": "fil-PH"
+    },
+    {
+        "name": "fr-CA-Neural2-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "French (Canada)",
+        "languageCode": "fr-CA"
+    },
+    {
+        "name": "fr-CA-Neural2-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "French (Canada)",
+        "languageCode": "fr-CA"
+    },
+    {
+        "name": "fr-CA-Neural2-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "French (Canada)",
+        "languageCode": "fr-CA"
+    },
+    {
+        "name": "fr-CA-Neural2-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "French (Canada)",
+        "languageCode": "fr-CA"
+    },
+    {
+        "name": "fr-CA-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "French (Canada)",
+        "languageCode": "fr-CA"
+    },
+    {
+        "name": "fr-CA-Standard-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "French (Canada)",
+        "languageCode": "fr-CA"
+    },
+    {
+        "name": "fr-CA-Standard-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "French (Canada)",
+        "languageCode": "fr-CA"
+    },
+    {
+        "name": "fr-CA-Standard-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "French (Canada)",
+        "languageCode": "fr-CA"
+    },
+    {
+        "name": "fr-CA-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "French (Canada)",
+        "languageCode": "fr-CA"
+    },
+    {
+        "name": "fr-CA-Wavenet-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "French (Canada)",
+        "languageCode": "fr-CA"
+    },
+    {
+        "name": "fr-CA-Wavenet-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "French (Canada)",
+        "languageCode": "fr-CA"
+    },
+    {
+        "name": "fr-CA-Wavenet-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "French (Canada)",
+        "languageCode": "fr-CA"
+    },
+    {
+        "name": "fr-FR-Neural2-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "French (France)",
+        "languageCode": "fr-FR"
+    },
+    {
+        "name": "fr-FR-Neural2-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "French (France)",
+        "languageCode": "fr-FR"
+    },
+    {
+        "name": "fr-FR-Neural2-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "French (France)",
+        "languageCode": "fr-FR"
+    },
+    {
+        "name": "fr-FR-Neural2-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "French (France)",
+        "languageCode": "fr-FR"
+    },
+    {
+        "name": "fr-FR-Neural2-E",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "French (France)",
+        "languageCode": "fr-FR"
+    },
+    {
+        "name": "fr-FR-Polyglot-1",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "englishName": "French (France)",
+        "languageCode": "fr-FR",
+        "type": "Polyglot"
+    },
+    {
+        "name": "fr-FR-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "French (France)",
+        "languageCode": "fr-FR"
+    },
+    {
+        "name": "fr-FR-Standard-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "French (France)",
+        "languageCode": "fr-FR"
+    },
+    {
+        "name": "fr-FR-Standard-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "French (France)",
+        "languageCode": "fr-FR"
+    },
+    {
+        "name": "fr-FR-Standard-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "French (France)",
+        "languageCode": "fr-FR"
+    },
+    {
+        "name": "fr-FR-Standard-E",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "French (France)",
+        "languageCode": "fr-FR"
+    },
+    {
+        "name": "fr-FR-Studio-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "englishName": "French (France)",
+        "languageCode": "fr-FR",
+        "type": "Studio"
+    },
+    {
+        "name": "fr-FR-Studio-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "englishName": "French (France)",
+        "languageCode": "fr-FR",
+        "type": "Studio"
+    },
+    {
+        "name": "fr-FR-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "French (France)",
+        "languageCode": "fr-FR"
+    },
+    {
+        "name": "fr-FR-Wavenet-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "French (France)",
+        "languageCode": "fr-FR"
+    },
+    {
+        "name": "fr-FR-Wavenet-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "French (France)",
+        "languageCode": "fr-FR"
+    },
+    {
+        "name": "fr-FR-Wavenet-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "French (France)",
+        "languageCode": "fr-FR"
+    },
+    {
+        "name": "fr-FR-Wavenet-E",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "French (France)",
+        "languageCode": "fr-FR"
+    },
+    {
+        "name": "gl-ES-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Galician (Spain)",
+        "languageCode": "gl-ES"
+    },
+    {
+        "name": "gu-IN-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Gujarati (India)",
+        "languageCode": "gu-IN"
+    },
+    {
+        "name": "gu-IN-Standard-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Gujarati (India)",
+        "languageCode": "gu-IN"
+    },
+    {
+        "name": "gu-IN-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Gujarati (India)",
+        "languageCode": "gu-IN"
+    },
+    {
+        "name": "gu-IN-Wavenet-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Gujarati (India)",
+        "languageCode": "gu-IN"
+    },
+    {
+        "name": "he-IL-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Hebrew (Israel)",
+        "languageCode": "he-IL"
+    },
+    {
+        "name": "he-IL-Standard-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Hebrew (Israel)",
+        "languageCode": "he-IL"
+    },
+    {
+        "name": "he-IL-Standard-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Hebrew (Israel)",
+        "languageCode": "he-IL"
+    },
+    {
+        "name": "he-IL-Standard-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Hebrew (Israel)",
+        "languageCode": "he-IL"
+    },
+    {
+        "name": "he-IL-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Hebrew (Israel)",
+        "languageCode": "he-IL"
+    },
+    {
+        "name": "he-IL-Wavenet-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Hebrew (Israel)",
+        "languageCode": "he-IL"
+    },
+    {
+        "name": "he-IL-Wavenet-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Hebrew (Israel)",
+        "languageCode": "he-IL"
+    },
+    {
+        "name": "he-IL-Wavenet-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Hebrew (Israel)",
+        "languageCode": "he-IL"
+    },
+    {
+        "name": "hi-IN-Neural2-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "Hindi (India)",
+        "languageCode": "hi-IN"
+    },
+    {
+        "name": "hi-IN-Neural2-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "Hindi (India)",
+        "languageCode": "hi-IN"
+    },
+    {
+        "name": "hi-IN-Neural2-C",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "Hindi (India)",
+        "languageCode": "hi-IN"
+    },
+    {
+        "name": "hi-IN-Neural2-D",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "Hindi (India)",
+        "languageCode": "hi-IN"
+    },
+    {
+        "name": "hi-IN-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Hindi (India)",
+        "languageCode": "hi-IN"
+    },
+    {
+        "name": "hi-IN-Standard-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Hindi (India)",
+        "languageCode": "hi-IN"
+    },
+    {
+        "name": "hi-IN-Standard-C",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Hindi (India)",
+        "languageCode": "hi-IN"
+    },
+    {
+        "name": "hi-IN-Standard-D",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Hindi (India)",
+        "languageCode": "hi-IN"
+    },
+    {
+        "name": "hi-IN-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Hindi (India)",
+        "languageCode": "hi-IN"
+    },
+    {
+        "name": "hi-IN-Wavenet-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Hindi (India)",
+        "languageCode": "hi-IN"
+    },
+    {
+        "name": "hi-IN-Wavenet-C",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Hindi (India)",
+        "languageCode": "hi-IN"
+    },
+    {
+        "name": "hi-IN-Wavenet-D",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Hindi (India)",
+        "languageCode": "hi-IN"
+    },
+    {
+        "name": "hu-HU-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Hungarian (Hungary)",
+        "languageCode": "hu-HU"
+    },
+    {
+        "name": "hu-HU-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Hungarian (Hungary)",
+        "languageCode": "hu-HU"
+    },
+    {
+        "name": "id-ID-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Indonesian (Indonesia)",
+        "languageCode": "id-ID"
+    },
+    {
+        "name": "id-ID-Standard-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Indonesian (Indonesia)",
+        "languageCode": "id-ID"
+    },
+    {
+        "name": "id-ID-Standard-C",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Indonesian (Indonesia)",
+        "languageCode": "id-ID"
+    },
+    {
+        "name": "id-ID-Standard-D",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Indonesian (Indonesia)",
+        "languageCode": "id-ID"
+    },
+    {
+        "name": "id-ID-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Indonesian (Indonesia)",
+        "languageCode": "id-ID"
+    },
+    {
+        "name": "id-ID-Wavenet-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Indonesian (Indonesia)",
+        "languageCode": "id-ID"
+    },
+    {
+        "name": "id-ID-Wavenet-C",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Indonesian (Indonesia)",
+        "languageCode": "id-ID"
+    },
+    {
+        "name": "id-ID-Wavenet-D",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Indonesian (Indonesia)",
+        "languageCode": "id-ID"
+    },
+    {
+        "name": "is-IS-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Icelandic (Iceland)",
+        "languageCode": "is-IS"
+    },
+    {
+        "name": "it-IT-Neural2-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "Italian (Italy)",
+        "languageCode": "it-IT"
+    },
+    {
+        "name": "it-IT-Neural2-C",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "Italian (Italy)",
+        "languageCode": "it-IT"
+    },
+    {
+        "name": "it-IT-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Italian (Italy)",
+        "languageCode": "it-IT"
+    },
+    {
+        "name": "it-IT-Standard-B",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Italian (Italy)",
+        "languageCode": "it-IT"
+    },
+    {
+        "name": "it-IT-Standard-C",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Italian (Italy)",
+        "languageCode": "it-IT"
+    },
+    {
+        "name": "it-IT-Standard-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Italian (Italy)",
+        "languageCode": "it-IT"
+    },
+    {
+        "name": "it-IT-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Italian (Italy)",
+        "languageCode": "it-IT"
+    },
+    {
+        "name": "it-IT-Wavenet-B",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Italian (Italy)",
+        "languageCode": "it-IT"
+    },
+    {
+        "name": "it-IT-Wavenet-C",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Italian (Italy)",
+        "languageCode": "it-IT"
+    },
+    {
+        "name": "it-IT-Wavenet-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Italian (Italy)",
+        "languageCode": "it-IT"
+    },
+    {
+        "name": "ja-JP-Neural2-B",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "Japanese (Japan)",
+        "languageCode": "ja-JP"
+    },
+    {
+        "name": "ja-JP-Neural2-C",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "Japanese (Japan)",
+        "languageCode": "ja-JP"
+    },
+    {
+        "name": "ja-JP-Neural2-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "Japanese (Japan)",
+        "languageCode": "ja-JP"
+    },
+    {
+        "name": "ja-JP-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Japanese (Japan)",
+        "languageCode": "ja-JP"
+    },
+    {
+        "name": "ja-JP-Standard-B",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Japanese (Japan)",
+        "languageCode": "ja-JP"
+    },
+    {
+        "name": "ja-JP-Standard-C",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Japanese (Japan)",
+        "languageCode": "ja-JP"
+    },
+    {
+        "name": "ja-JP-Standard-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Japanese (Japan)",
+        "languageCode": "ja-JP"
+    },
+    {
+        "name": "ja-JP-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Japanese (Japan)",
+        "languageCode": "ja-JP"
+    },
+    {
+        "name": "ja-JP-Wavenet-B",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Japanese (Japan)",
+        "languageCode": "ja-JP"
+    },
+    {
+        "name": "ja-JP-Wavenet-C",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Japanese (Japan)",
+        "languageCode": "ja-JP"
+    },
+    {
+        "name": "ja-JP-Wavenet-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Japanese (Japan)",
+        "languageCode": "ja-JP"
+    },
+    {
+        "name": "kn-IN-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Kannada (India)",
+        "languageCode": "kn-IN"
+    },
+    {
+        "name": "kn-IN-Standard-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Kannada (India)",
+        "languageCode": "kn-IN"
+    },
+    {
+        "name": "kn-IN-Standard-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Kannada (India)",
+        "languageCode": "kn-IN"
+    },
+    {
+        "name": "kn-IN-Standard-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Kannada (India)",
+        "languageCode": "kn-IN"
+    },
+    {
+        "name": "kn-IN-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Kannada (India)",
+        "languageCode": "kn-IN"
+    },
+    {
+        "name": "kn-IN-Wavenet-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Kannada (India)",
+        "languageCode": "kn-IN"
+    },
+    {
+        "name": "kn-IN-Wavenet-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Kannada (India)",
+        "languageCode": "kn-IN"
+    },
+    {
+        "name": "kn-IN-Wavenet-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Kannada (India)",
+        "languageCode": "kn-IN"
+    },
+    {
+        "name": "ko-KR-Neural2-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "Korean (South Korea)",
+        "languageCode": "ko-KR"
+    },
+    {
+        "name": "ko-KR-Neural2-B",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "Korean (South Korea)",
+        "languageCode": "ko-KR"
+    },
+    {
+        "name": "ko-KR-Neural2-C",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "Korean (South Korea)",
+        "languageCode": "ko-KR"
+    },
+    {
+        "name": "ko-KR-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Korean (South Korea)",
+        "languageCode": "ko-KR"
+    },
+    {
+        "name": "ko-KR-Standard-B",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Korean (South Korea)",
+        "languageCode": "ko-KR"
+    },
+    {
+        "name": "ko-KR-Standard-C",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Korean (South Korea)",
+        "languageCode": "ko-KR"
+    },
+    {
+        "name": "ko-KR-Standard-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Korean (South Korea)",
+        "languageCode": "ko-KR"
+    },
+    {
+        "name": "ko-KR-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Korean (South Korea)",
+        "languageCode": "ko-KR"
+    },
+    {
+        "name": "ko-KR-Wavenet-B",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Korean (South Korea)",
+        "languageCode": "ko-KR"
+    },
+    {
+        "name": "ko-KR-Wavenet-C",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Korean (South Korea)",
+        "languageCode": "ko-KR"
+    },
+    {
+        "name": "ko-KR-Wavenet-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Korean (South Korea)",
+        "languageCode": "ko-KR"
+    },
+    {
+        "name": "lt-LT-Standard-A",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Lithuanian (Lithuania)",
+        "languageCode": "lt-LT"
+    },
+    {
+        "name": "lv-LV-Standard-A",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Latvian (Latvia)",
+        "languageCode": "lv-LV"
+    },
+    {
+        "name": "ml-IN-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Malayalam (India)",
+        "languageCode": "ml-IN"
+    },
+    {
+        "name": "ml-IN-Standard-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Malayalam (India)",
+        "languageCode": "ml-IN"
+    },
+    {
+        "name": "ml-IN-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Malayalam (India)",
+        "languageCode": "ml-IN"
+    },
+    {
+        "name": "ml-IN-Wavenet-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Malayalam (India)",
+        "languageCode": "ml-IN"
+    },
+    {
+        "name": "ml-IN-Wavenet-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Malayalam (India)",
+        "languageCode": "ml-IN"
+    },
+    {
+        "name": "ml-IN-Wavenet-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Malayalam (India)",
+        "languageCode": "ml-IN"
+    },
+    {
+        "name": "mr-IN-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Marathi (India)",
+        "languageCode": "mr-IN"
+    },
+    {
+        "name": "mr-IN-Standard-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Marathi (India)",
+        "languageCode": "mr-IN"
+    },
+    {
+        "name": "mr-IN-Standard-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Marathi (India)",
+        "languageCode": "mr-IN"
+    },
+    {
+        "name": "mr-IN-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Marathi (India)",
+        "languageCode": "mr-IN"
+    },
+    {
+        "name": "mr-IN-Wavenet-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Marathi (India)",
+        "languageCode": "mr-IN"
+    },
+    {
+        "name": "mr-IN-Wavenet-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Marathi (India)",
+        "languageCode": "mr-IN"
+    },
+    {
+        "name": "ms-MY-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Malay (Malaysia)",
+        "languageCode": "ms-MY"
+    },
+    {
+        "name": "ms-MY-Standard-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Malay (Malaysia)",
+        "languageCode": "ms-MY"
+    },
+    {
+        "name": "ms-MY-Standard-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Malay (Malaysia)",
+        "languageCode": "ms-MY"
+    },
+    {
+        "name": "ms-MY-Standard-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Malay (Malaysia)",
+        "languageCode": "ms-MY"
+    },
+    {
+        "name": "ms-MY-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Malay (Malaysia)",
+        "languageCode": "ms-MY"
+    },
+    {
+        "name": "ms-MY-Wavenet-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Malay (Malaysia)",
+        "languageCode": "ms-MY"
+    },
+    {
+        "name": "ms-MY-Wavenet-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Malay (Malaysia)",
+        "languageCode": "ms-MY"
+    },
+    {
+        "name": "ms-MY-Wavenet-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Malay (Malaysia)",
+        "languageCode": "ms-MY"
+    },
+    {
+        "name": "nb-NO-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Norwegian Bokm\u00e5l (Norway)",
+        "languageCode": "nb-NO"
+    },
+    {
+        "name": "nb-NO-Standard-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Norwegian Bokm\u00e5l (Norway)",
+        "languageCode": "nb-NO"
+    },
+    {
+        "name": "nb-NO-Standard-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Norwegian Bokm\u00e5l (Norway)",
+        "languageCode": "nb-NO"
+    },
+    {
+        "name": "nb-NO-Standard-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Norwegian Bokm\u00e5l (Norway)",
+        "languageCode": "nb-NO"
+    },
+    {
+        "name": "nb-NO-Standard-E",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Norwegian Bokm\u00e5l (Norway)",
+        "languageCode": "nb-NO"
+    },
+    {
+        "name": "nb-NO-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Norwegian Bokm\u00e5l (Norway)",
+        "languageCode": "nb-NO"
+    },
+    {
+        "name": "nb-NO-Wavenet-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Norwegian Bokm\u00e5l (Norway)",
+        "languageCode": "nb-NO"
+    },
+    {
+        "name": "nb-NO-Wavenet-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Norwegian Bokm\u00e5l (Norway)",
+        "languageCode": "nb-NO"
+    },
+    {
+        "name": "nb-NO-Wavenet-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Norwegian Bokm\u00e5l (Norway)",
+        "languageCode": "nb-NO"
+    },
+    {
+        "name": "nb-NO-Wavenet-E",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Norwegian Bokm\u00e5l (Norway)",
+        "languageCode": "nb-NO"
+    },
+    {
+        "name": "nl-BE-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Dutch (Belgium)",
+        "languageCode": "nl-BE"
+    },
+    {
+        "name": "nl-BE-Standard-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Dutch (Belgium)",
+        "languageCode": "nl-BE"
+    },
+    {
+        "name": "nl-BE-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Dutch (Belgium)",
+        "languageCode": "nl-BE"
+    },
+    {
+        "name": "nl-BE-Wavenet-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Dutch (Belgium)",
+        "languageCode": "nl-BE"
+    },
+    {
+        "name": "nl-NL-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Dutch (Netherlands)",
+        "languageCode": "nl-NL"
+    },
+    {
+        "name": "nl-NL-Standard-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Dutch (Netherlands)",
+        "languageCode": "nl-NL"
+    },
+    {
+        "name": "nl-NL-Standard-C",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Dutch (Netherlands)",
+        "languageCode": "nl-NL"
+    },
+    {
+        "name": "nl-NL-Standard-D",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Dutch (Netherlands)",
+        "languageCode": "nl-NL"
+    },
+    {
+        "name": "nl-NL-Standard-E",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Dutch (Netherlands)",
+        "languageCode": "nl-NL"
+    },
+    {
+        "name": "nl-NL-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Dutch (Netherlands)",
+        "languageCode": "nl-NL"
+    },
+    {
+        "name": "nl-NL-Wavenet-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Dutch (Netherlands)",
+        "languageCode": "nl-NL"
+    },
+    {
+        "name": "nl-NL-Wavenet-C",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Dutch (Netherlands)",
+        "languageCode": "nl-NL"
+    },
+    {
+        "name": "nl-NL-Wavenet-D",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Dutch (Netherlands)",
+        "languageCode": "nl-NL"
+    },
+    {
+        "name": "nl-NL-Wavenet-E",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Dutch (Netherlands)",
+        "languageCode": "nl-NL"
+    },
+    {
+        "name": "pa-IN-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Punjabi (Gurmukhi, India)",
+        "languageCode": "pa-IN"
+    },
+    {
+        "name": "pa-IN-Standard-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Punjabi (Gurmukhi, India)",
+        "languageCode": "pa-IN"
+    },
+    {
+        "name": "pa-IN-Standard-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Punjabi (Gurmukhi, India)",
+        "languageCode": "pa-IN"
+    },
+    {
+        "name": "pa-IN-Standard-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Punjabi (Gurmukhi, India)",
+        "languageCode": "pa-IN"
+    },
+    {
+        "name": "pa-IN-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Punjabi (Gurmukhi, India)",
+        "languageCode": "pa-IN"
+    },
+    {
+        "name": "pa-IN-Wavenet-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Punjabi (Gurmukhi, India)",
+        "languageCode": "pa-IN"
+    },
+    {
+        "name": "pa-IN-Wavenet-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Punjabi (Gurmukhi, India)",
+        "languageCode": "pa-IN"
+    },
+    {
+        "name": "pa-IN-Wavenet-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Punjabi (Gurmukhi, India)",
+        "languageCode": "pa-IN"
+    },
+    {
+        "name": "pl-PL-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Polish (Poland)",
+        "languageCode": "pl-PL"
+    },
+    {
+        "name": "pl-PL-Standard-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Polish (Poland)",
+        "languageCode": "pl-PL"
+    },
+    {
+        "name": "pl-PL-Standard-C",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Polish (Poland)",
+        "languageCode": "pl-PL"
+    },
+    {
+        "name": "pl-PL-Standard-D",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Polish (Poland)",
+        "languageCode": "pl-PL"
+    },
+    {
+        "name": "pl-PL-Standard-E",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Polish (Poland)",
+        "languageCode": "pl-PL"
+    },
+    {
+        "name": "pl-PL-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Polish (Poland)",
+        "languageCode": "pl-PL"
+    },
+    {
+        "name": "pl-PL-Wavenet-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Polish (Poland)",
+        "languageCode": "pl-PL"
+    },
+    {
+        "name": "pl-PL-Wavenet-C",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Polish (Poland)",
+        "languageCode": "pl-PL"
+    },
+    {
+        "name": "pl-PL-Wavenet-D",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Polish (Poland)",
+        "languageCode": "pl-PL"
+    },
+    {
+        "name": "pl-PL-Wavenet-E",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Polish (Poland)",
+        "languageCode": "pl-PL"
+    },
+    {
+        "name": "pt-BR-Neural2-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "Portuguese (Brazil)",
+        "languageCode": "pt-BR"
+    },
+    {
+        "name": "pt-BR-Neural2-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "Portuguese (Brazil)",
+        "languageCode": "pt-BR"
+    },
+    {
+        "name": "pt-BR-Neural2-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "Portuguese (Brazil)",
+        "languageCode": "pt-BR"
+    },
+    {
+        "name": "pt-BR-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Portuguese (Brazil)",
+        "languageCode": "pt-BR"
+    },
+    {
+        "name": "pt-BR-Standard-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Portuguese (Brazil)",
+        "languageCode": "pt-BR"
+    },
+    {
+        "name": "pt-BR-Standard-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Portuguese (Brazil)",
+        "languageCode": "pt-BR"
+    },
+    {
+        "name": "pt-BR-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Portuguese (Brazil)",
+        "languageCode": "pt-BR"
+    },
+    {
+        "name": "pt-BR-Wavenet-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Portuguese (Brazil)",
+        "languageCode": "pt-BR"
+    },
+    {
+        "name": "pt-BR-Wavenet-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Portuguese (Brazil)",
+        "languageCode": "pt-BR"
+    },
+    {
+        "name": "pt-PT-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Portuguese (Portugal)",
+        "languageCode": "pt-PT"
+    },
+    {
+        "name": "pt-PT-Standard-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Portuguese (Portugal)",
+        "languageCode": "pt-PT"
+    },
+    {
+        "name": "pt-PT-Standard-C",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Portuguese (Portugal)",
+        "languageCode": "pt-PT"
+    },
+    {
+        "name": "pt-PT-Standard-D",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Portuguese (Portugal)",
+        "languageCode": "pt-PT"
+    },
+    {
+        "name": "pt-PT-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Portuguese (Portugal)",
+        "languageCode": "pt-PT"
+    },
+    {
+        "name": "pt-PT-Wavenet-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Portuguese (Portugal)",
+        "languageCode": "pt-PT"
+    },
+    {
+        "name": "pt-PT-Wavenet-C",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Portuguese (Portugal)",
+        "languageCode": "pt-PT"
+    },
+    {
+        "name": "pt-PT-Wavenet-D",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Portuguese (Portugal)",
+        "languageCode": "pt-PT"
+    },
+    {
+        "name": "ro-RO-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Romanian (Romania)",
+        "languageCode": "ro-RO"
+    },
+    {
+        "name": "ro-RO-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Romanian (Romania)",
+        "languageCode": "ro-RO"
+    },
+    {
+        "name": "ru-RU-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Russian (Russia)",
+        "languageCode": "ru-RU"
+    },
+    {
+        "name": "ru-RU-Standard-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Russian (Russia)",
+        "languageCode": "ru-RU"
+    },
+    {
+        "name": "ru-RU-Standard-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Russian (Russia)",
+        "languageCode": "ru-RU"
+    },
+    {
+        "name": "ru-RU-Standard-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Russian (Russia)",
+        "languageCode": "ru-RU"
+    },
+    {
+        "name": "ru-RU-Standard-E",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Russian (Russia)",
+        "languageCode": "ru-RU"
+    },
+    {
+        "name": "ru-RU-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Russian (Russia)",
+        "languageCode": "ru-RU"
+    },
+    {
+        "name": "ru-RU-Wavenet-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Russian (Russia)",
+        "languageCode": "ru-RU"
+    },
+    {
+        "name": "ru-RU-Wavenet-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Russian (Russia)",
+        "languageCode": "ru-RU"
+    },
+    {
+        "name": "ru-RU-Wavenet-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Russian (Russia)",
+        "languageCode": "ru-RU"
+    },
+    {
+        "name": "ru-RU-Wavenet-E",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Russian (Russia)",
+        "languageCode": "ru-RU"
+    },
+    {
+        "name": "sk-SK-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Slovak (Slovakia)",
+        "languageCode": "sk-SK"
+    },
+    {
+        "name": "sk-SK-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Slovak (Slovakia)",
+        "languageCode": "sk-SK"
+    },
+    {
+        "name": "sr-RS-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Serbian (Cyrillic, Serbia)",
+        "languageCode": "sr-RS"
+    },
+    {
+        "name": "sv-SE-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Swedish (Sweden)",
+        "languageCode": "sv-SE"
+    },
+    {
+        "name": "sv-SE-Standard-B",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Swedish (Sweden)",
+        "languageCode": "sv-SE"
+    },
+    {
+        "name": "sv-SE-Standard-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Swedish (Sweden)",
+        "languageCode": "sv-SE"
+    },
+    {
+        "name": "sv-SE-Standard-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Swedish (Sweden)",
+        "languageCode": "sv-SE"
+    },
+    {
+        "name": "sv-SE-Standard-E",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Swedish (Sweden)",
+        "languageCode": "sv-SE"
+    },
+    {
+        "name": "sv-SE-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Swedish (Sweden)",
+        "languageCode": "sv-SE"
+    },
+    {
+        "name": "sv-SE-Wavenet-B",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Swedish (Sweden)",
+        "languageCode": "sv-SE"
+    },
+    {
+        "name": "sv-SE-Wavenet-C",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Swedish (Sweden)",
+        "languageCode": "sv-SE"
+    },
+    {
+        "name": "sv-SE-Wavenet-D",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Swedish (Sweden)",
+        "languageCode": "sv-SE"
+    },
+    {
+        "name": "sv-SE-Wavenet-E",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Swedish (Sweden)",
+        "languageCode": "sv-SE"
+    },
+    {
+        "name": "ta-IN-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Tamil (India)",
+        "languageCode": "ta-IN"
+    },
+    {
+        "name": "ta-IN-Standard-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Tamil (India)",
+        "languageCode": "ta-IN"
+    },
+    {
+        "name": "ta-IN-Standard-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Tamil (India)",
+        "languageCode": "ta-IN"
+    },
+    {
+        "name": "ta-IN-Standard-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Tamil (India)",
+        "languageCode": "ta-IN"
+    },
+    {
+        "name": "ta-IN-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Tamil (India)",
+        "languageCode": "ta-IN"
+    },
+    {
+        "name": "ta-IN-Wavenet-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Tamil (India)",
+        "languageCode": "ta-IN"
+    },
+    {
+        "name": "ta-IN-Wavenet-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Tamil (India)",
+        "languageCode": "ta-IN"
+    },
+    {
+        "name": "ta-IN-Wavenet-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Tamil (India)",
+        "languageCode": "ta-IN"
+    },
+    {
+        "name": "te-IN-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Telugu (India)",
+        "languageCode": "te-IN"
+    },
+    {
+        "name": "te-IN-Standard-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Telugu (India)",
+        "languageCode": "te-IN"
+    },
+    {
+        "name": "th-TH-Neural2-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "Thai (Thailand)",
+        "languageCode": "th-TH"
+    },
+    {
+        "name": "th-TH-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Thai (Thailand)",
+        "languageCode": "th-TH"
+    },
+    {
+        "name": "tr-TR-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Turkish (Turkey)",
+        "languageCode": "tr-TR"
+    },
+    {
+        "name": "tr-TR-Standard-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Turkish (Turkey)",
+        "languageCode": "tr-TR"
+    },
+    {
+        "name": "tr-TR-Standard-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Turkish (Turkey)",
+        "languageCode": "tr-TR"
+    },
+    {
+        "name": "tr-TR-Standard-D",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Turkish (Turkey)",
+        "languageCode": "tr-TR"
+    },
+    {
+        "name": "tr-TR-Standard-E",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Turkish (Turkey)",
+        "languageCode": "tr-TR"
+    },
+    {
+        "name": "tr-TR-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Turkish (Turkey)",
+        "languageCode": "tr-TR"
+    },
+    {
+        "name": "tr-TR-Wavenet-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Turkish (Turkey)",
+        "languageCode": "tr-TR"
+    },
+    {
+        "name": "tr-TR-Wavenet-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Turkish (Turkey)",
+        "languageCode": "tr-TR"
+    },
+    {
+        "name": "tr-TR-Wavenet-D",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Turkish (Turkey)",
+        "languageCode": "tr-TR"
+    },
+    {
+        "name": "tr-TR-Wavenet-E",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Turkish (Turkey)",
+        "languageCode": "tr-TR"
+    },
+    {
+        "name": "uk-UA-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Ukrainian (Ukraine)",
+        "languageCode": "uk-UA"
+    },
+    {
+        "name": "uk-UA-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Ukrainian (Ukraine)",
+        "languageCode": "uk-UA"
+    },
+    {
+        "name": "vi-VN-Neural2-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "Vietnamese (Vietnam)",
+        "languageCode": "vi-VN"
+    },
+    {
+        "name": "vi-VN-Neural2-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Neural2",
+        "englishName": "Vietnamese (Vietnam)",
+        "languageCode": "vi-VN"
+    },
+    {
+        "name": "vi-VN-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Vietnamese (Vietnam)",
+        "languageCode": "vi-VN"
+    },
+    {
+        "name": "vi-VN-Standard-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Vietnamese (Vietnam)",
+        "languageCode": "vi-VN"
+    },
+    {
+        "name": "vi-VN-Standard-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Vietnamese (Vietnam)",
+        "languageCode": "vi-VN"
+    },
+    {
+        "name": "vi-VN-Standard-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Vietnamese (Vietnam)",
+        "languageCode": "vi-VN"
+    },
+    {
+        "name": "vi-VN-Wavenet-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Vietnamese (Vietnam)",
+        "languageCode": "vi-VN"
+    },
+    {
+        "name": "vi-VN-Wavenet-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Vietnamese (Vietnam)",
+        "languageCode": "vi-VN"
+    },
+    {
+        "name": "vi-VN-Wavenet-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Vietnamese (Vietnam)",
+        "languageCode": "vi-VN"
+    },
+    {
+        "name": "vi-VN-Wavenet-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Wavenet",
+        "englishName": "Vietnamese (Vietnam)",
+        "languageCode": "vi-VN"
+    },
+    {
+        "name": "yue-HK-Standard-A",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Cantonese (Traditional, Hong Kong SAR China)",
+        "languageCode": "yue-HK"
+    },
+    {
+        "name": "yue-HK-Standard-B",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Cantonese (Traditional, Hong Kong SAR China)",
+        "languageCode": "yue-HK"
+    },
+    {
+        "name": "yue-HK-Standard-C",
+        "ssmlGender": "FEMALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Cantonese (Traditional, Hong Kong SAR China)",
+        "languageCode": "yue-HK"
+    },
+    {
+        "name": "yue-HK-Standard-D",
+        "ssmlGender": "MALE",
+        "naturalSampleRateHertz": 24000,
+        "type": "Standard",
+        "englishName": "Cantonese (Traditional, Hong Kong SAR China)",
+        "languageCode": "yue-HK"
+    }
+]
